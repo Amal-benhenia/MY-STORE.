@@ -1,0 +1,26 @@
+.navContainer {
+height: 60px;
+
+}
+.navWrapper{
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left {
+    flex:1;
+}
+.center {
+    flex:1;
+}
+.right {
+    flex:1;
+}
+.Language {
+  font-size: 14px; 
+  cursor: pointer; 
+}
+.searchContainer {
+color: #f8efd1fa;
+}
